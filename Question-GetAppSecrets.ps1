@@ -4,7 +4,7 @@
 #
 # Title: AZURE - GetUsers
 #
-# URL: https://au2mator.com/documentation/configure-powershell-question-type/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=PS1
+# URL: https://click.au2mator.com/QuestionPS/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=PS1
 # Github: https://github.com/au2mator/au2mator-PS-Templates
 #
 # PreReq: au2mator 4.5 or higher required
@@ -25,7 +25,7 @@ $c_AppId=$au2matorhook.c_AppId
 $c_AppId="70804967-3aad-4a07-9ba4-c11aea27df91"
 
 #Environment
-[string]$CredentialStorePath = "C:\_SCOworkingDir\TFS\PS-Services\CredentialStore" #see for details: https://au2mator.com/documentation/powershell-credentials/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=PS1
+[string]$CredentialStorePath = "C:\_SCOworkingDir\TFS\PS-Services\CredentialStore" #see for details: https://click.au2mator.com/PSCreds/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=PS1
 [string]$LogPath = "C:\_SCOworkingDir\TFS\PS-Services\AZURE - Delete Secret from Azure App Reg\Logs"
 [string]$LogfileName = "Question-GetAppSecrets"
 
