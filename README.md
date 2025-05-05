@@ -16,7 +16,7 @@ Delete a Secret from an Azure Application Registration with MS GRAPH API and au2
 
 # Getting Started
 
-1.	<a href="https://click.au2mator.com/au2matorInstall/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=Readme" target="_blank">Install and Download au2mator Self-Service Portal</a>
+1.	<a href="https://click.au2mator.com/au2matorInstall/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=Readme" target="_blank">Install and Download au2mator - Self Service Portal</a>
 
 2.	<a href="https://click.au2mator.com/StartWithPowerShell/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveSecretFromAppReg&utm_content=Readme" target="_blank">Configure au2mator to run PowerShell Scripts</a>
 
